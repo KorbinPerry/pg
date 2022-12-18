@@ -5,9 +5,25 @@
       "title": "The Frozen Heart",
       "id": 1,
       "full_image": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2FAurora_full.webp?alt=media&token=383f3455-e1fa-40e8-bc0b-8301bb838bf1",
+      "hero_image": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_hero.png?alt=media&token=f9c2b679-ba2f-47d1-8dd0-64d8ea289957"
       "bio": "Captain of the Ventus Mercenaries, widely renowned throughout the galaxy. She uses ice magic with incredibly destructive power. She was once Queen of the prosperous Kingdom of Vinea, but she was cursed by a spirit after being deceived by someone she loved. Because of the curse, she was dethroned and exiled from the kingdom, which was then overtaken by neighboring kingdoms. She now fights alone to restore Vinea to its former glory.",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2FAurora_avatar.webp?alt=media&token=a4a919a5-6e71-438f-a132-96debdca8ed9",
       "role": "Caster"
+      "skill_lmb_name": "Frost Sword",
+      "skill_lmb_description": "Swings a frost sword to deal Physical Damage to enemies",
+      "skill_lmb_icon": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_skill_LMB.webp?alt=media&token=d82b645c-1bee-4d35-ab96-902221c3734b",
+      "skill_q_name": "Frozen Track",
+      "skill_q_description": "Charges forward, leaving an ice trail behind that lasts for 7 sec",
+      "skill_q_icon": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_skill_Q.webp?alt=media&token=533a832b-b765-4529-899d-c4036964be96",
+      "skill_e_name": "Glacial Barrier",
+      "skill_e_description": "Creates ice rings in the surrounding area for 1.2 sec. The rings inflict Root on enemies that touches them and deal Magical Damage",
+      "skill_e_icon": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_skill_E.webp?alt=media&token=21c86ae0-b7b1-4149-b159-e2e46b14cb60",
+      "skill_r_name": "Glacier Explosion",
+      "skill_r_description": "Freezes nearby enemies, Slowing them by 20% for 2 sec. the ice explodes in 2 sec to Stun targets for 1 sec and deal Magical Damage. When Stun ends, it deals Bonus Magical Damage to enemies within range and Stuns them for 0.5 sec",
+      "skill_r_icon": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_skill_R.webp?alt=media&token=ea393077-835c-4708-8cba-06e5ac785738",
+      "skill_rmb_name": "Frigid Illusion",
+      "skill_rmb_description": "Leaps in the direction the hero is moving and leaves behind an ice statue that lasts for 3.5 sec. The Statue Taunts t-ons and enemy buildings and Slows enemies nearby by 35%",
+      "skill_rmb_icon": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2Faurora_skill_RMB.webp?alt=media&token=1219d9ec-b03e-4d1f-a2ed-97df6c5057c4"
     },
     {
       "name": "Belica",  
