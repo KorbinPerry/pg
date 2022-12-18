@@ -4,7 +4,7 @@
       "name": "Aurora",  
       "title": "The Frozen Heart",
       "id": 1,
-      "full_image": "gs://paragon-ede6b.appspot.com/characters/aurora/Aurora_full.webp",
+      "full_image": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2FAurora_full.webp?alt=media&token=383f3455-e1fa-40e8-bc0b-8301bb838bf1",
       "avatar": "https://iili.io/HxnMyTG.webp",
       "role": "Caster"
     },
