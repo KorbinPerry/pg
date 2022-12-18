@@ -6,14 +6,14 @@
       "id": 1,
       "full_image": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2FAurora_full.webp?alt=media&token=383f3455-e1fa-40e8-bc0b-8301bb838bf1",
       "bio": "Captain of the Ventus Mercenaries, widely renowned throughout the galaxy. She uses ice magic with incredibly destructive power. She was once Queen of the prosperous Kingdom of Vinea, but she was cursed by a spirit after being deceived by someone she loved. Because of the curse, she was dethroned and exiled from the kingdom, which was then overtaken by neighboring kingdoms. She now fights alone to restore Vinea to its former glory.",
-      "avatar": "https://iili.io/HxnMyTG.webp",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Faurora%2FAurora_avatar.webp?alt=media&token=a4a919a5-6e71-438f-a132-96debdca8ed9",
       "role": "Caster"
     },
     {
       "name": "Belica",  
       "id": 2,
-      "full_image": "https://iili.io/HxnMmps.webp",
-      "avatar": "https://iili.io/HxnV9jf.webp"
+      "full_image": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Fbelica%2FBelica_full.webp?alt=media&token=d08476f2-c39e-4ac7-85f6-ffb5438ab711",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/paragon-ede6b.appspot.com/o/characters%2Fbelica%2FBelica_avatar.webp?alt=media&token=1ccec332-56a6-48b6-b934-0c20920dd0d8"
     }
   ]
 }
